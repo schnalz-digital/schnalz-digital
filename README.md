@@ -6,7 +6,7 @@ Schnalz is a results‑driven marketing agency incorporated in **2018**, deliver
 ---
 
 ## About Schnalz
-Founded in 2018, Schnalz empowers businesses worldwide with:
+Founded in 2019, Schnalz empowers businesses worldwide with:
 - **Digital Strategy** – data‑driven campaigns that boost visibility and ROI.
 - **Branding** – creative identity solutions that build trust and recognition.
 - **SEO & Performance Marketing** – measurable growth through optimized campaigns.
@@ -48,4 +48,4 @@ Add these topics to improve discoverability:
 
 ## License
 This repository contains the official Schnalz Marketing Agency website content.  
-© 2018‑2026 Schnalz. All rights reserved.
+© 2019‑2026 Schnalz. All rights reserved.
